@@ -1,0 +1,61 @@
+:root{
+  /* --- Base palette ------------------------------------------------------ */
+  /* Cream — the page. Warm off-white, never pure white. */
+  --cream-50:#FFFEFC; --cream-100:#FDFBF7; --cream-200:#F7F2E9; --cream-300:#EFE7D9; --cream-400:#E4D8C4;
+
+  /* Emerald — the brand. Deep forest green: wellness, nature, discretion. */
+  --emerald-900:#0E211C; --emerald-800:#132E27; --emerald-700:#1C3F34; --emerald-600:#2A5648;
+  --emerald-500:#3C6E5D; --emerald-400:#5C8D7C; --emerald-300:#8FB3A6; --emerald-200:#C2D6CD; --emerald-100:#E4EEE9;
+
+  /* Gold — restraint. Muted ochre for CTAs, stars, badges. Never a gradient. */
+  --gold-700:#7C6129; --gold-600:#A98844; --gold-500:#C5A059; --gold-400:#D5B87E; --gold-300:#E5D2AB; --gold-200:#F2E8D4;
+
+  /* Ink — soft blacks and warm greys. */
+  --ink-900:#1A1A1A; --ink-800:#2E2C29; --ink-700:#4A4642; --ink-600:#6B655E; --ink-500:#7A7368;
+  --ink-400:#ADA69C; --ink-300:#CFC9C0; --ink-200:#E6E1D9; --ink-100:#F1EDE6;
+
+  --white:#FFFFFF;
+
+  /* Semantic hues — used sparingly, only for status. */
+  --success-600:#2F6B4F; --success-100:#E3F0E9;
+  --warning-600:#9A6B1F; --warning-100:#FBF0DA;
+  --danger-600:#95352F;  --danger-100:#F7E5E3;
+  --info-600:#3A5E77;    --info-100:#E5EDF3;
+
+  /* --- Semantic aliases --------------------------------------------------- */
+  --surface-page:var(--cream-100);
+  --surface-page-alt:var(--cream-200);
+  --surface-card:var(--white);
+  --surface-sunken:var(--cream-200);
+  --surface-inverse:var(--emerald-700);
+  --surface-inverse-deep:var(--emerald-900);
+  --surface-accent-soft:var(--emerald-100);
+  --surface-gold-soft:var(--gold-200);
+  --surface-overlay:rgba(14,33,28,.48);
+
+  --text-body:var(--ink-900);
+  --text-muted:var(--ink-600);
+  --text-subtle:var(--ink-500);
+  --text-inverse:var(--cream-100);
+  --text-inverse-muted:var(--emerald-200);
+  --text-brand:var(--emerald-700);
+  --text-gold:var(--gold-700);
+  --text-on-gold:var(--emerald-900);
+
+  --border-hairline:var(--ink-300);
+  --border-soft:var(--cream-300);
+  --border-strong:var(--ink-500);
+  --border-brand:var(--emerald-200);
+  --border-inverse:rgba(255,255,255,.16);
+
+  --action-primary:var(--emerald-700);
+  --action-primary-hover:var(--emerald-600);
+  --action-primary-active:var(--emerald-800);
+  --action-gold:var(--gold-500);
+  --action-gold-hover:var(--gold-400);
+  --action-gold-active:var(--gold-600);
+
+  --focus-ring:var(--gold-600);
+  --star-filled:var(--gold-600);
+  --star-empty:oklch(0.828 0.008 76.1);
+}

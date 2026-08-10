@@ -1,0 +1,29 @@
+:root{
+  /* Corners — generous but not bubbly. Pills are reserved for CTAs and chips. */
+  --radius-xs:6px;
+  --radius-sm:10px;
+  --radius-md:14px;
+  --radius-lg:20px;
+  --radius-xl:28px;
+  --radius-2xl:36px;
+  --radius-pill:999px;
+  --radius-arch:180px 180px 0 0; /* arched image tops — the one signature shape */
+
+  --border-width:1px;
+  --border-width-strong:1.5px;
+
+  /* Elevation — light and warm; shadows are green-tinted, never neutral black. */
+  --shadow-none:none;
+  --shadow-xs:0 1px 2px rgba(28,63,52,.05);
+  --shadow-sm:0 2px 8px rgba(28,63,52,.05);
+  --shadow-card:0 4px 20px rgba(0,0,0,.04);
+  --shadow-md:0 8px 28px rgba(28,63,52,.07);
+  --shadow-lg:0 18px 48px rgba(28,63,52,.10);
+  --shadow-drawer:-24px 0 60px rgba(14,33,28,.16);
+  --shadow-inset-hairline:inset 0 0 0 1px var(--border-hairline);
+
+  --ring-focus:0 0 0 3px var(--gold-600);
+
+  --blur-veil:blur(14px); /* @kind other */
+  --scrim-bottom:linear-gradient(to top, rgba(14,33,28,.72) 0%, rgba(14,33,28,.28) 45%, rgba(14,33,28,0) 100%); /* @kind other */
+}

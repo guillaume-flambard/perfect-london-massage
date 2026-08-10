@@ -1,0 +1,730 @@
+[
+  {
+    "slug": "thai-massage",
+    "name": "Thai",
+    "icon": "leaf",
+    "duration": "60 / 90 min",
+    "price": "from £65",
+    "intro": "Indulge in the transcendental experience of Thai massage, a harmonious blend of ancient healing traditions. This therapeutic artistry seamlessly unifies gentle pressure, yoga-inspired movements, acupressure, rhythmic rocking, compression, and stretching. As a seasoned Massage Professional, I guide you through a choreography of motions that intertwine physical, emotional, mental, and spiritual dimensions.",
+    "benefits": [
+      {
+        "title": "Thai Massage",
+        "body": "Indulge in the transcendental experience of Thai massage, a harmonious blend of ancient healing traditions. This therapeutic artistry seamlessly unifies gentle pressure, yoga-inspired movements, acupressure, rhythmic rocking, compression, and stretching. As a seasoned Massage Professional, I guide you through a choreography of motions that intertwi"
+      },
+      {
+        "title": "Enhanced Sleep Quality",
+        "body": "Experience the transformative touch of a Thai massage, where the benefits extend far beyond the massage table, enhancing the very fabric of your sleep."
+      },
+      {
+        "title": "Stress Reduction",
+        "body": "Feel the burdens of stress dissolve under the skilled hands of a Thai massage, transcending mere physical relief to achieve profound stress reduction. As a dedicated Massage Professional, my expertise lies in unlocking the therapeutic potential of this ancient practice."
+      },
+      {
+        "title": "Headache and Migraine Relief",
+        "body": "This specialized technique extends beyond mere physical touch, delving into the intricate realms of energy flow and tension release."
+      },
+      {
+        "title": "Muscle Tension Relief",
+        "body": "Indulge in the profound relief of muscle tension through the transformative experience of Thai massage, curated by a skilled Massage Professional."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/thai_massage_4-768x576.webp",
+        "filename": "thai_massage_4-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/thai_massage_6-768x576.webp",
+        "filename": "thai_massage_6-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/thai_massage_1-768x576.webp",
+        "filename": "thai_massage_1-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/thai_massage_2-768x576.webp",
+        "filename": "thai_massage_2-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/thai_massage_3-768x576.webp",
+        "filename": "thai_massage_3-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/02/sports-massage-therapist.webp",
+        "filename": "sports-massage-therapist.webp"
+      }
+    ]
+  },
+  {
+    "slug": "lomi-lomi-massage",
+    "name": "Lomi Lomi",
+    "icon": "droplet",
+    "duration": "60 / 90 min",
+    "price": "from £65",
+    "intro": "Embark on a transformative journey of well-being with our Lomi Lomi Massage, a Hawaiian-inspired art deeply rooted in Huna philosophy. Originating from the islands, Lomi Lomi has gracefully woven its way into Western practices, and as a seasoned Massage Professional, I bring you its essence.",
+    "benefits": [
+      {
+        "title": "Lomi Lomi Massage",
+        "body": "Embark on a transformative journey of well-being with our Lomi Lomi Massage, a Hawaiian-inspired art deeply rooted in Huna philosophy. Originating from the islands, Lomi Lomi has gracefully woven its way into Western practices, and as a seasoned Massage Professional, I bring you its essence."
+      },
+      {
+        "title": "Understanding the Lomi Lomi & Benefits",
+        "body": "Experience Lomi Lomi Massage: A tropical escape for your senses. Dive into tranquillity with our expert therapists. Book now for ultimate relaxation!"
+      },
+      {
+        "title": "Pain Management",
+        "body": "Lomi Lomi massage, rooted in the ancient traditions of Hawaii, employs long, fluid strokes and intentional touch to address discomfort at its core. The massage's unique dance-like movements and deep connection to the body's energy flow allow for the release of tension and the promotion of natural healing processes."
+      },
+      {
+        "title": "Nervous System Calming",
+        "body": "Crafted with precision by a seasoned Massage Professional, this ancient Hawaiian art form harmonizes with the body's intricate network, bringing profound relaxation to the nervous system."
+      },
+      {
+        "title": "Lomi Lomi Massage London",
+        "body": "Lomi Lomi Massage London is a therapeutic and culturally enriching experience, inspired by the ancient healing traditions of Hawaii. This specialized bodywork is gaining popularity in London's wellness industry, offering a unique blend of relaxation and holistic well-being."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/lomi_lomi_massage_1-768x576.webp",
+        "filename": "lomi_lomi_massage_1-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/lomi_lomi_massage_5-768x576.webp",
+        "filename": "lomi_lomi_massage_5-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/lomi_lomi_massage_6-768x576.webp",
+        "filename": "lomi_lomi_massage_6-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/lomi_lomi_massage_4-768x576.webp",
+        "filename": "lomi_lomi_massage_4-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/lomi_lomi_massage_3-768x576.webp",
+        "filename": "lomi_lomi_massage_3-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/02/lomi-lomi-massage-london.webp",
+        "filename": "lomi-lomi-massage-london.webp"
+      }
+    ]
+  },
+  {
+    "slug": "sports-massage",
+    "name": "Sports",
+    "icon": "timer",
+    "duration": "60 / 90 min",
+    "price": "from £65",
+    "intro": "Step into a realm of athletic excellence with the invigorating Sports Massage, meticulously crafted by our skilled Massage Professional. This specialized manual therapy is not merely a treatment; it's a holistic approach to elevate physical performance and champion athlete well-being.",
+    "benefits": [
+      {
+        "title": "Sports Massage",
+        "body": "Step into a realm of athletic excellence with the invigorating Sports Massage, meticulously crafted by our skilled Massage Professional. This specialized manual therapy is not merely a treatment; it's a holistic approach to elevate physical performance and champion athlete well-being."
+      },
+      {
+        "title": "Pain Relief",
+        "body": "Experience liberation from pain with our bespoke Sports Massage, expertly curated by our seasoned Massage Professional. This transformative therapy transcends conventional pain relief, offering a tailored approach to address discomfort at its roots."
+      },
+      {
+        "title": "Faster Recovery",
+        "body": "Embark on a swifter journey to recovery with our specialized Sports Massage, meticulously curated to enhance your body's revitalization process."
+      },
+      {
+        "title": "Improved Circulation",
+        "body": "Elevate your physical performance and well-being with our specialized Sports Massage, meticulously crafted by our expert Massage Professional."
+      },
+      {
+        "title": "Reduced Muscle Soreness",
+        "body": "Unleash the power of recovery with our Sports Massage, expertly tailored to alleviate muscle soreness and elevate your post-activity well-being."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/sports_massage_1-768x576.webp",
+        "filename": "sports_massage_1-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/sports_massage_2-768x576.webp",
+        "filename": "sports_massage_2-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/sports_massage_5-768x576.webp",
+        "filename": "sports_massage_5-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/sports_massage_6-768x576.webp",
+        "filename": "sports_massage_6-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/sports_massage_3-768x576.webp",
+        "filename": "sports_massage_3-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/sports_massage_4-768x576.webp",
+        "filename": "sports_massage_4-768x576.webp"
+      }
+    ]
+  },
+  {
+    "slug": "deep-tissue-massage",
+    "name": "Deep Tissue",
+    "icon": "activity",
+    "duration": "60 / 90 min",
+    "price": "from £65",
+    "intro": "This specialized technique involves applying firm pressure and slow strokes to target the deeper layers of muscle and connective tissue in the body. By addressing these deeper layers, Deep Tissue Massage can effectively alleviate chronic tension, muscle stiffness, and pain.",
+    "benefits": [
+      {
+        "title": "Deep Tissue Massage",
+        "body": "This specialized technique involves applying firm pressure and slow strokes to target the deeper layers of muscle and connective tissue in the body. By addressing these deeper layers, Deep Tissue Massage can effectively alleviate chronic tension, muscle stiffness, and pain."
+      },
+      {
+        "title": "Muscle Tension Relief",
+        "body": "A deep tissue massage is a therapeutic journey that transcends the superficial layers of muscle and delves into the core of tension and stress."
+      },
+      {
+        "title": "Lowered Blood Pressure",
+        "body": "Through targeted and intentional manipulation of deeper muscle layers, this technique promotes enhanced blood circulation."
+      },
+      {
+        "title": "Increased Range of Motion",
+        "body": "A deep tissue massage, skillfully employing focused pressure and purposeful stretching techniques, serves as a catalyst for enhanced joint flexibility and expanded range of motion."
+      },
+      {
+        "title": "Headache and Migraine Relief",
+        "body": "Through targeted and intentional manipulation of deeper muscle layers, this technique promotes enhanced blood circulation."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/deep_tissue_massage_2-768x576.webp",
+        "filename": "deep_tissue_massage_2-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/deep_tissue_massage_3-768x576.webp",
+        "filename": "deep_tissue_massage_3-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/deep_tissue_massage_5-768x576.webp",
+        "filename": "deep_tissue_massage_5-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/deep_tissue_massage_4-768x576.webp",
+        "filename": "deep_tissue_massage_4-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/deep_tissue_massage_6-768x576.webp",
+        "filename": "deep_tissue_massage_6-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/deep_tissue_massage_1-768x576.webp",
+        "filename": "deep_tissue_massage_1-768x576.webp"
+      }
+    ]
+  },
+  {
+    "slug": "lymphatic-massage",
+    "name": "Lymphatic",
+    "icon": "droplet",
+    "duration": "60 / 90 min",
+    "price": "from £65",
+    "intro": "A Lymphatic Massage is a specialized therapeutic technique designed to stimulate the lymphatic system, a crucial component of the body's immune system. This gentle and rhythmic massage targets lymph nodes and vessels, encouraging the natural flow of lymphatic fluid throughout the body. By doing so, it promotes the removal of toxins, waste products, and excess fluid from the tissues, supporting the body's detoxification processes.",
+    "benefits": [
+      {
+        "title": "Lymphatic Massage",
+        "body": "A Lymphatic Massage is a specialized therapeutic technique designed to stimulate the lymphatic system, a crucial component of the body's immune system. This gentle and rhythmic massage targets lymph nodes and vessels, encouraging the natural flow of lymphatic fluid throughout the body. By doing so, it promotes the removal of toxins, waste products,"
+      },
+      {
+        "title": "Inflammation Reduction",
+        "body": "A therapeutic symphony orchestrated to reduce inflammation and offer respite for those grappling with conditions like arthritis or chronic inflammatory disorders. Through the gentle manipulation of lymphatic pathways, this massage becomes a beacon of relief."
+      },
+      {
+        "title": "Cellulite Reduction",
+        "body": "This specialized massage technique orchestrates a harmonious dance to promote the drainage of excess fluids and toxins from the intricate network of fat cells."
+      },
+      {
+        "title": "Detoxification",
+        "body": "This specialized massage technique meticulously stimulates the lymphatic system, a crucial component of the body's natural cleansing process."
+      },
+      {
+        "title": "Reduced Edema and Swelling",
+        "body": "Soothing relief with the gentle artistry of a Lymphatic Massage, a specialized technique that unveils its prowess in diminishing edema and swelling. Tailored to address the intricate dance of the lymphatic system, this massage provides respite for individuals grappling with conditions such as lymphedema."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/lymphatic-massage-1-768x576.webp",
+        "filename": "lymphatic-massage-1-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/lymphatic-massage-3-768x576.webp",
+        "filename": "lymphatic-massage-3-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/lymphatic-massage-4-768x576.webp",
+        "filename": "lymphatic-massage-4-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/lymphatic-massage-5-768x576.webp",
+        "filename": "lymphatic-massage-5-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/lymphatic-massage-2-768x576.webp",
+        "filename": "lymphatic-massage-2-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/lymphatic-massage-h6-768x576.webp",
+        "filename": "lymphatic-massage-h6-768x576.webp"
+      }
+    ]
+  },
+  {
+    "slug": "indian-head-massage",
+    "name": "Indian Head",
+    "icon": "sparkles",
+    "duration": "60 / 90 min",
+    "price": "from £65",
+    "intro": "An Indian Head Massage is a delightful and therapeutic practice renowned for its multitude of physical and psychological benefits. This specialized massage technique, rooted in traditional Indian practices, focuses on the upper body, particularly the head, neck, and shoulders.",
+    "benefits": [
+      {
+        "title": "Indian Head Massage London",
+        "body": "An Indian Head Massage is a delightful and therapeutic practice renowned for its multitude of physical and psychological benefits. This specialized massage technique, rooted in traditional Indian practices, focuses on the upper body, particularly the head, neck, and shoulders."
+      },
+      {
+        "title": "Headache Relief",
+        "body": "This massage, rooted in ancient Indian traditions, is a sanctuary for those seeking respite from the grips of headaches and migraines."
+      },
+      {
+        "title": "Enhanced Scalp Health",
+        "body": "Embark on a journey of rejuvenation with the Indian Head Massage, a therapeutic odyssey that extends its benefits to the very roots of your well-being. This ancient practice, deeply rooted in Indian traditions, offers more than just relaxation—it bestows a cascade of advantages, including the enhancement of scalp health."
+      },
+      {
+        "title": "Release of Muscle Tension",
+        "body": "Focused on the upper body, Indian Head Massage releases tightness in the neck, shoulders, and upper back, improving flexibility and reducing muscle tension."
+      },
+      {
+        "title": "Improved Concentration",
+        "body": "The massage can enhance mental clarity and concentration by reducing mental fatigue and promoting a sense of relaxation."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/indian-head-massage-1-768x576.webp",
+        "filename": "indian-head-massage-1-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/indian-head-massage-4-768x576.webp",
+        "filename": "indian-head-massage-4-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/indian-head-massage-3-768x576.webp",
+        "filename": "indian-head-massage-3-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/indian-head-massage-6-768x576.webp",
+        "filename": "indian-head-massage-6-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/indian-head-massage-2-768x576.webp",
+        "filename": "indian-head-massage-2-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/indian-head-massage-5-768x576.webp",
+        "filename": "indian-head-massage-5-768x576.webp"
+      }
+    ]
+  },
+  {
+    "slug": "reflexology-massage",
+    "name": "Reflexology",
+    "icon": "heart",
+    "duration": "60 / 90 min",
+    "price": "from £65",
+    "intro": "A Reflexology Massage, a therapeutic art that explores the intricate map of energy points on the soles of the feet. Rooted in ancient practices, Reflexology is a gateway to restoring balance to both the physical and emotional realms of the body.",
+    "benefits": [
+      {
+        "title": "Mobile Reflexology Massage",
+        "body": "A Reflexology Massage, a therapeutic art that explores the intricate map of energy points on the soles of the feet. Rooted in ancient practices, Reflexology is a gateway to restoring balance to both the physical and emotional realms of the body."
+      },
+      {
+        "title": "Better Sleep Quality",
+        "body": "A Reflexology Massage, rooted in the belief that specific points on the feet correspond to various organs and systems in the body, engages these reflex zones to induce a deep state of relaxation."
+      },
+      {
+        "title": "Balanced Energy Levels",
+        "body": "Elevate your vitality and experience balanced energy levels through the transformative touch of Reflexology Massage. Rooted in the ancient belief that specific points on the feet correspond to various energy pathways in the body, reflexology channels its therapeutic influence toward restoring balance."
+      },
+      {
+        "title": "Relief for Digestive Issues",
+        "body": "Indulge in the soothing touch of Reflexology Massage to find relief from digestive discomfort. This ancient practice believes that targeted points on the feet correspond to various organs, including the digestive system. Through skillful manipulation of these reflex zones, a Reflexology Massage aims to alleviate issues like indigestion and bloating"
+      },
+      {
+        "title": "Sinus and Respiratory Support",
+        "body": "Experience the rejuvenating effects of Reflexology Massage as it extends its therapeutic touch to support sinus and respiratory health. Reflexology holds the belief that specific points on the feet are interconnected with various systems in the body, including the respiratory system. During a session, skilled therapists apply precise pressure to th"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/reflexology-massage-1-768x576.webp",
+        "filename": "reflexology-massage-1-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/reflexology-massage-2-768x576.webp",
+        "filename": "reflexology-massage-2-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/reflexology-massage-6-768x576.webp",
+        "filename": "reflexology-massage-6-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/reflexology-massage-5-768x576.webp",
+        "filename": "reflexology-massage-5-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/reflexology-massage-4-768x576.webp",
+        "filename": "reflexology-massage-4-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/reflexology-massage-3-768x576.webp",
+        "filename": "reflexology-massage-3-768x576.webp"
+      }
+    ]
+  },
+  {
+    "slug": "reiki-massage",
+    "name": "Reiki",
+    "icon": "sparkles",
+    "duration": "60 / 90 min",
+    "price": "from £65",
+    "intro": "A Reiki massage is a holistic approach that taps into the profound healing powers of vibration, light, and Universal Energy.",
+    "benefits": [
+      {
+        "title": "Reiki Massage London",
+        "body": "A Reiki massage is a holistic approach that taps into the profound healing powers of vibration, light, and Universal Energy."
+      },
+      {
+        "title": "Improved Digestive Function",
+        "body": "A Reiki massage, with its emphasis on stress reduction and relaxation, offers a unique pathway to improved digestive function. Stress is known to adversely affect the digestive system, leading to issues such as indigestion, bloating, and impaired nutrient absorption. Through the gentle touch and energy manipulation of Reiki, the massage professiona"
+      },
+      {
+        "title": "Support for Anxiety and Depression",
+        "body": "A Reiki massage serves as a beacon of solace for those grappling with anxiety and depression, offering a gentle and non-intrusive pathway to mental well-being. The calming effect induced by the flow of healing energy creates a tranquil environment conducive to relaxation and introspection. Clients often find respite from the relentless grip of anxi"
+      },
+      {
+        "title": "Pain Management for Chronic Conditions",
+        "body": "In the realm of chronic pain management, a reiki healing massage emerges as a gentle yet effective complement to traditional approaches, offering additional relief and enhancing overall well-being. This holistic modality works in harmony with conventional methods to address the physical and energetic aspects of chronic conditions."
+      },
+      {
+        "title": "Self-Awareness and Mindfulness",
+        "body": "A Reiki massage transcends the physical realm, extending into the realm of self-awareness and mindfulness. Through the gentle touch and energy transfer characteristic of Reiki, recipients often find themselves becoming more attuned to their bodies and emotions. The holistic nature of Reiki encourages individuals to embrace a state of heightened awa"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/reiki_massage_3-768x576.webp",
+        "filename": "reiki_massage_3-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/reiki_massage_2-768x576.webp",
+        "filename": "reiki_massage_2-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/reiki_massage_1-768x576.webp",
+        "filename": "reiki_massage_1-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/reiki_massage_5-768x576.webp",
+        "filename": "reiki_massage_5-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/reiki_massage_6-768x576.webp",
+        "filename": "reiki_massage_6-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/reiki_massage_4-768x576.webp",
+        "filename": "reiki_massage_4-768x576.webp"
+      }
+    ]
+  },
+  {
+    "slug": "holistic-massage",
+    "name": "Holistic",
+    "icon": "leaf",
+    "duration": "60 / 90 min",
+    "price": "from £65",
+    "intro": "A massage that goes beyond the physical, nurturing the body, mind, and spirit in harmonious unison. This ancient practice is a symphony of circular and stretching movements, carefully orchestrated to generate relief that ripples through every layer of your being.",
+    "benefits": [
+      {
+        "title": "Holistic Massage London",
+        "body": "A massage that goes beyond the physical, nurturing the body, mind, and spirit in harmonious unison. This ancient practice is a symphony of circular and stretching movements, carefully orchestrated to generate relief that ripples through every layer of your being."
+      },
+      {
+        "title": "Elevated Mood",
+        "body": "Through skilful strokes and intentional connection, this massage artfully orchestrates the release of endorphins, the body's natural mood enhancers."
+      },
+      {
+        "title": "Balanced Nervous System",
+        "body": "Embark on a journey of profound equilibrium with the Holistic Massage, a therapeutic odyssey that delicately balances the intricate dance of your nervous system. As the therapist's hands weave a tapestry of intentional touch, the massage becomes a harmonizing force, bridging the realms of the sympathetic and parasympathetic branches of your nervous"
+      },
+      {
+        "title": "Alleviation of Anxiety and Depression Symptoms",
+        "body": "Beyond the realm of physical touch, this massage is an artistry that extends into the delicate landscapes of emotions. With each intentional movement, anxiety and depression find solace as the massage eases the burdens carried within."
+      },
+      {
+        "title": "Improved Digestion",
+        "body": "The therapist, with skilled movements, awakens the dormant energies within, fostering a gentle dance that resonates through the digestive system."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/holistic-massage-1-768x576.webp",
+        "filename": "holistic-massage-1-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/holistic-massage-6-768x576.webp",
+        "filename": "holistic-massage-6-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/holistic-massage-2-768x576.webp",
+        "filename": "holistic-massage-2-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/holistic-massage-5-768x576.webp",
+        "filename": "holistic-massage-5-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/holistic-massage-4-768x576.webp",
+        "filename": "holistic-massage-4-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/holistic-massage-3-768x576.webp",
+        "filename": "holistic-massage-3-768x576.webp"
+      }
+    ]
+  },
+  {
+    "slug": "swedish-massage",
+    "name": "Swedish",
+    "icon": "leaf",
+    "duration": "60 / 90 min",
+    "price": "from £65",
+    "intro": "Indulge in the rejuvenating embrace of our Swedish Massage, meticulously crafted by our adept Massage Professional to dissolve tensions and invigorate muscles and joints. This therapeutic symphony of flowing strokes and targeted pressure is a holistic journey, promoting optimal blood circulation and aiding the lymphatic system in eliminating toxins.",
+    "benefits": [
+      {
+        "title": "Swedish Massage",
+        "body": "Indulge in the rejuvenating embrace of our Swedish Massage, meticulously crafted by our adept Massage Professional to dissolve tensions and invigorate muscles and joints. This therapeutic symphony of flowing strokes and targeted pressure is a holistic journey, promoting optimal blood circulation and aiding the lymphatic system in eliminating toxins"
+      },
+      {
+        "title": "Stress Reduction",
+        "body": "Feel the weight of stress melt away as the rhythmic cadence of the massage harmonizes with your body's natural rhythms. The Swedish Massage is not just a physical experience; it's a mental retreat. Each stroke is a whisper that lulls your mind into a state of blissful repose, allowing worries to dissipate."
+      },
+      {
+        "title": "Improved Blood Circulation",
+        "body": "Experience the revitalizing embrace of our Swedish Massage, meticulously crafted to invigorate and enhance blood circulation, a cornerstone of your overall well-being."
+      },
+      {
+        "title": "Muscle Tension Relief",
+        "body": "Embark on a journey to relief and relaxation with our expertly crafted Swedish Massage, where the artistry of touch meets the science of tension release."
+      },
+      {
+        "title": "Enhanced Flexibility",
+        "body": "Experience a metamorphosis in your body's flexibility through our carefully tailored Swedish Massage. As a dedicated Massage Professional, I prioritize the enhancement of your overall well-being, and improved flexibility is a key outcome of our specialized approach."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/swedish_massage_2-768x576.webp",
+        "filename": "swedish_massage_2-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/swedish_massage_5-768x576.webp",
+        "filename": "swedish_massage_5-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/swedish_massage_1-768x576.webp",
+        "filename": "swedish_massage_1-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/swedish_massage_6-768x576.webp",
+        "filename": "swedish_massage_6-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/lomi_lomi_massage_6-768x576.webp",
+        "filename": "lomi_lomi_massage_6-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/swedish_massage_4-768x576.webp",
+        "filename": "swedish_massage_4-768x576.webp"
+      }
+    ]
+  },
+  {
+    "slug": "healing-pressure-massage",
+    "name": "Healing Pressure",
+    "icon": "handHeart",
+    "duration": "60 / 90 min",
+    "price": "from £65",
+    "intro": "Welcome to the world of Healing Pressure Massage, a profound practice rooted in the ancient traditions of Japan and China. Shiatsu, the art of channeling vital energy (Chi), unfolds through the skilled touch of fingers and palms on specific points of the body, transcending mere physical contact.",
+    "benefits": [
+      {
+        "title": "Healing Pressure Massage",
+        "body": "Welcome to the world of Healing Pressure Massage, a profound practice rooted in the ancient traditions of Japan and China. Shiatsu, the art of channeling vital energy (Chi), unfolds through the skilled touch of fingers and palms on specific points of the body, transcending mere physical contact."
+      },
+      {
+        "title": "Stress Reduction",
+        "body": "The Healing Pressure Massage, deeply rooted in the ancient traditions of Japan and China, stands as a profound remedy for stress reduction. By skillfully channeling vital energy (Chi) through precise pressure points, this massage technique orchestrates a symphony of relaxation for both the body and mind. The therapist's fingers and palms, guided by"
+      },
+      {
+        "title": "Pain Relief",
+        "body": "Drawing inspiration from the rich traditions of Japan and China, this massage technique orchestrates a symphony of pressure on targeted points, meticulously designed to address muscular and joint issues."
+      },
+      {
+        "title": "Improved Circulation",
+        "body": "Embark on a journey of enhanced vitality through the Healing Pressure Massage, where the rhythm of skilled pressure points orchestrates a symphony of improved circulation. This massage technique, rooted in the ancient traditions of Japan and China, becomes a conduit for better blood flow, facilitating optimal oxygenation of tissues and fostering ov"
+      },
+      {
+        "title": "Muscle Tension Release",
+        "body": "Experience the liberating embrace of the Healing Pressure Massage as it unravels the intricacies of muscle tension, targeting knots and tightness with precision. This therapeutic technique, inspired by the rich traditions of Japan and China, skillfully navigates the landscape of muscular discomfort, offering profound relief and fostering improved f"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/healing-pressure-massage-1-768x576.webp",
+        "filename": "healing-pressure-massage-1-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/healing-pressure-massage-5-768x576.webp",
+        "filename": "healing-pressure-massage-5-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/healing-pressure-massage-2-768x576.webp",
+        "filename": "healing-pressure-massage-2-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/healing-pressure-massage-7-768x576.webp",
+        "filename": "healing-pressure-massage-7-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/healing-pressure-massage-4-768x576.webp",
+        "filename": "healing-pressure-massage-4-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/healing-pressure-massage-3-768x576.webp",
+        "filename": "healing-pressure-massage-3-768x576.webp"
+      }
+    ]
+  },
+  {
+    "slug": "aromatherapy-massage",
+    "name": "Aromatherapy",
+    "icon": "droplet",
+    "duration": "60 / 90 min",
+    "price": "from £65",
+    "intro": "Indulge in the sensory symphony of an Aromatherapy Massage, where the healing touch of a seasoned Massage Professional converges with the therapeutic allure of essential oils. Meticulously extracted from aromatic plants, these oils harbor a treasure trove of health-enhancing properties. As the massage unfolds, the ambient aroma intertwines with the gentle kneading, unlocking a realm of physical and mental well-being.",
+    "benefits": [
+      {
+        "title": "Aromatherapy Massage",
+        "body": "Indulge in the sensory symphony of an Aromatherapy Massage, where the healing touch of a seasoned Massage Professional converges with the therapeutic allure of essential oils. Meticulously extracted from aromatic plants, these oils harbor a treasure trove of health-enhancing properties. As the massage unfolds, the ambient aroma intertwines with the"
+      },
+      {
+        "title": "Pain Relief",
+        "body": "Essential oils like eucalyptus and peppermint used in Aromatherapy Massage have analgesic properties, providing relief from muscle and joint pain."
+      },
+      {
+        "title": "Improved Circulation",
+        "body": "Embark on a journey of enhanced vitality and well-being through the artistry of an Aromatherapy Massage, skillfully administered by a seasoned Massage Professional. This bespoke massage transcends conventional practices, seamlessly weaving the therapeutic power of essential oils to invigorate and optimize circulation."
+      },
+      {
+        "title": "Muscle Relaxation",
+        "body": "Experience the sublime synergy of tranquility and rejuvenation with an Aroma Massage, meticulously crafted by our seasoned Massage Professional. This therapeutic journey transcends conventional massages, artfully combining the soothing power of essential oils to unravel tension and usher in profound muscle relaxation."
+      },
+      {
+        "title": "Stress Reduction",
+        "body": "Embark on a transformative odyssey of stress dissolution with our Aromatherapy Massage, meticulously curated by our adept Massage Professional. This transcendent experience transcends the conventional, weaving together the therapeutic power of expert touch and aromatic elixirs."
+      }
+    ],
+    "images": [
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2023/12/aromatherapy_massage_5-768x576.webp",
+        "filename": "aromatherapy_massage_5-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2023/12/aromatherapy_massage_6-768x576.webp",
+        "filename": "aromatherapy_massage_6-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2023/12/aromatherapy_massage_3-768x576.webp",
+        "filename": "aromatherapy_massage_3-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2023/12/aromatherapy_massage_1-768x576.webp",
+        "filename": "aromatherapy_massage_1-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2023/12/aromatherapy_massage_4-768x576.webp",
+        "filename": "aromatherapy_massage_4-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2023/12/aromatherapy_massage_7-768x576.webp",
+        "filename": "aromatherapy_massage_7-768x576.webp"
+      }
+    ]
+  },
+  {
+    "slug": "balinese-massage",
+    "name": "Balinese",
+    "icon": "sparkles",
+    "duration": "60 / 90 min",
+    "price": "from £65",
+    "intro": "Balinese Massage, a profound deep-tissue and holistic treatment, stands as a testament to the artistry of relaxation and rejuvenation. In this therapy, skilled practitioners seamlessly weave together gentle stretches, acupressure, reflexology, and aromatherapy, creating a symphony of therapeutic techniques.",
+    "benefits": [
+      {
+        "title": "Balinese Massage",
+        "body": "Balinese Massage, a profound deep-tissue and holistic treatment, stands as a testament to the artistry of relaxation and rejuvenation. In this therapy, skilled practitioners seamlessly weave together gentle stretches, acupressure, reflexology, and aromatherapy, creating a symphony of therapeutic techniques."
+      },
+      {
+        "title": "Skin Nourishment",
+        "body": "A Balinese Massage, enriched with the application of natural oils, offers profound nourishment to the skin. The therapeutic touch, combined with these oils, deeply moisturizes the skin, leaving it remarkably soft and hydrated. The use of natural oils not only enhances the massage experience but also promotes a healthy and radiant complexion."
+      },
+      {
+        "title": "Detoxification",
+        "body": "A Balinese Massage goes beyond relaxation, offering a detoxifying experience by stimulating the lymphatic system and enhancing circulation. Through expert techniques rooted in traditional Indonesian practices, the massage promotes the natural detoxification processes of the body."
+      },
+      {
+        "title": "Headache Relief",
+        "body": "A Bali Massage provides effective relief for tension headaches and migraines through targeted techniques that focus on the head and neck. The gentle yet precise massage movements work to release tension in these specific problem areas, promoting relaxation and alleviating the discomfort associated with headaches."
+      },
+      {
+        "title": "Emotional Release",
+        "body": "A Bali Massage, with its holistic approach, incorporates elements of energy work that contribute to emotional release and stress relief. This unique massage style recognizes the interconnectedness of physical and emotional well-being. During a Balinese Massage, the therapist employs various techniques aimed at releasing stored emotional stress with"
+      }
+    ],
+    "images": [
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/balinese_massage_4-768x576.webp",
+        "filename": "balinese_massage_4-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/balinese_massage_3-768x576.webp",
+        "filename": "balinese_massage_3-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/balinese_massage_2-768x576.webp",
+        "filename": "balinese_massage_2-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/balinese_massage_1-768x576.webp",
+        "filename": "balinese_massage_1-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/balinese_massage_5-768x576.webp",
+        "filename": "balinese_massage_5-768x576.webp"
+      },
+      {
+        "url": "https://perfectlondonmassage.co.uk/wp-content/uploads/2024/01/balinese_massage_6-768x576.webp",
+        "filename": "balinese_massage_6-768x576.webp"
+      }
+    ]
+  }
+]

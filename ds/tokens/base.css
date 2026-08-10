@@ -1,0 +1,22 @@
+*,*::before,*::after{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--surface-page);color:var(--text-body);font-family:var(--font-body);font-size:var(--text-md);line-height:var(--leading-body);font-weight:var(--weight-regular);-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+h1,h2,h3,h4{font-family:var(--font-display);font-weight:var(--weight-display);line-height:var(--leading-heading);letter-spacing:var(--tracking-display);color:var(--text-body);margin:0}
+h1{font-size:var(--text-display-lg);line-height:var(--leading-display)}
+h2{font-size:var(--text-display-md)}
+h3{font-size:var(--text-display-sm)}
+h4{font-size:var(--text-display-xs)}
+p{margin:0;text-wrap:pretty}
+a{color:var(--text-brand);text-decoration:none;text-underline-offset:3px;transition:color var(--duration-fast) var(--ease-out)}
+a:hover{color:var(--gold-700);text-decoration:underline}
+button,input,select,textarea{font:inherit;color:inherit}
+:focus-visible{outline:none;box-shadow:var(--ring-focus)}
+input[type="checkbox"]:focus-visible + span,
+input[type="radio"]:focus-visible + span,
+input[role="switch"]:focus-visible + span{box-shadow:var(--ring-focus)}
+@keyframes plm-rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+@keyframes plm-pop{from{opacity:0;transform:scale(.5)}to{opacity:1;transform:scale(1)}}
+@keyframes plm-drop{from{opacity:0;transform:translateY(-10px)}to{opacity:1;transform:translateY(0)}}
+::selection{background:var(--gold-300);color:var(--emerald-900)}
+img{max-width:100%;display:block}
+@media (prefers-reduced-motion:reduce){*{animation-duration:.01ms!important;transition-duration:.01ms!important}}

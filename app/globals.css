@@ -1,0 +1,13 @@
+@import "../ds/tokens/fonts.css";
+@import "../ds/tokens/colors.css";
+@import "../ds/tokens/typography.css";
+@import "../ds/tokens/spacing.css";
+@import "../ds/tokens/shape.css";
+@import "../ds/tokens/motion.css";
+@import "../ds/tokens/base.css";
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
