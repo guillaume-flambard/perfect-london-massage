@@ -23,7 +23,7 @@ export async function generateMetadata({ params }: PageProps<"/treatments/[slug]
       title: `${t.name} Massage London — Perfect London Massage`,
       description,
       url: `/treatments/${t.slug}`,
-      images: t.image ? [{ url: t.image }] : undefined,
+      images: [{ url: "/og-default.webp", width: 1200, height: 630 }],
       type: "website",
     },
   };

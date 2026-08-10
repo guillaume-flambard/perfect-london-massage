@@ -23,7 +23,7 @@ export async function generateMetadata({ params }: PageProps<"/therapists/[slug]
       title: `${t.name} — Mobile Massage Therapist London`,
       description,
       url: `/therapists/${t.slug}`,
-      images: t.photo ? [{ url: t.photo }] : undefined,
+      images: [{ url: "/og-default.webp", width: 1200, height: 630 }],
       type: "profile",
     },
   };

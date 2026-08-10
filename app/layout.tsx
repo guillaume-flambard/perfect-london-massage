@@ -33,6 +33,7 @@ export const metadata: Metadata = {
     type: "website",
     siteName: "Perfect London Massage",
     locale: "en_GB",
+    images: [{ url: "/og-default.webp", width: 1200, height: 630 }],
   },
   robots: {
     index: true,
